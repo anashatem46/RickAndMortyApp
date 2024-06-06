@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		uJXHveGTC1IHTxmEiSoUCFDurcM=
+		ZHCcQYqnIquO3b6uNLfKMHiVNfo=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		WMgtIgfeNmGmUXYai3cKEX8eLog=
+		JFXxLtROeRwcjADYdDUSRhwvkVY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		DAnsG9xtnNTCtvzyRYuZ/zRPLdM=
+		PRzfOz+U0OH5OJrxe5pnVYQ9EhM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -218,7 +218,7 @@
 		</data>
 		<key>Frameworks/connectivity_plus.framework/connectivity_plus</key>
 		<data>
-		Jnm8pfNYAn0wmvAtkjxUjTJlxAY=
+		aZT1eF8rfuOiEUIZl9T/laGG0cM=
 		</data>
 		<key>Frameworks/network_info_plus.framework/Info.plist</key>
 		<data>
@@ -317,7 +317,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wkDYgDsCNTxEGIY+FxtEnq6kWY6lz/7G1YI8j8mZPPg=
+			iKCXlJb4TLKHqlrkBbNRiox4AIUy1FXN5tOJmsSncGM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -331,7 +331,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vJjMmbJ0cSwNJDCBiKmQ0tp1MQ5Vup2PftQtJyoGwxg=
+			taMbBYcHayD5knkLVNnqwNaklPN8gjYPFr9W4dbGHFA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -387,7 +387,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h93xncz9zCNk3GXiHuFixVa9lOb0bZPhc+KOrjhsDd8=
+			eoT3KBWvgew6BdYa9nzbGJQC2MwVFaTpn9XgtVVmRxA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -618,7 +618,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pkkvh+HNnMfvqMF0sgF7X474nwB5bgzp6wCg62u7Als=
+			vi0LSfTWUHc02bPUa/UdPjlBPAuOsZF01yL/WQpp4UA=
 			</data>
 		</dict>
 		<key>Frameworks/network_info_plus.framework/Info.plist</key>

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:rickandmorty/business_logic/cubit/character_cubit.dart';
+import 'package:rickandmorty/data/models/characters.dart';
 import 'package:rickandmorty/data/repo/charactersrepo.dart';
 import 'package:rickandmorty/data/web_services/character_web_ser.dart';
 import 'package:rickandmorty/presentation/screens/character_screen.dart';
@@ -32,8 +33,9 @@ class AppRouter {
           builder: (_) => const CharacterScreen(),
         );
       case '/character details':
+        final character = settings.arguments as Character;
         return MaterialPageRoute(
-            builder: (_) => const CharacterDetailsScreen());
+            builder: (_) =>  CharacterDetailsScreen(character: character,));
       default:
         return MaterialPageRoute(builder: (_) => const HomeScreen());
     }
